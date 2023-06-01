@@ -4,7 +4,7 @@ I'm a Front End Developer with over 3 years of experience, originally from Lisbo
 
 - Front End Development: HTML, CSS, JavaScript
 - Back End Development: Node.js
-- Frameworks and Libraries: React, TypeScript, Next.js
+- Frameworks and Libraries: React, TypeScript, Next.js, Express.js
 - Databases: MongoDB & Mongoose
 - State Management: Redux Toolkit
 - Styling: SCSS
