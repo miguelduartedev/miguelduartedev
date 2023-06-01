@@ -3,7 +3,9 @@
 I'm a Front End Developer with over 3 years of experience, originally from Lisbon, Portugal. I specialize in building modern and interactive web applications using the following technologies:
 
 - Front End Development: HTML, CSS, JavaScript
+- Back End Development: Node.js
 - Frameworks and Libraries: React, TypeScript, Next.js
+- Databases: MongoDB & Mongoose
 - State Management: Redux Toolkit
 - Styling: SCSS
 
