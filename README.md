@@ -23,7 +23,7 @@ Feel free to explore my GitHub repositories for more projects and code samples.
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through the following channels:
 
-- Email: [luisconceicao.contact@gmail.com](luisconceicao.contact@gmail.com)
+- Email: [miguelduarte.contact@gmail.com](miguelduarte.contact@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/luis-miguel-duarte-conceicao/](https://www.linkedin.com/in/luis-miguel-duarte-conceicao/)
 
 Let's connect and discuss how we can work together to create amazing web experiences!
