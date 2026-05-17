@@ -1,13 +1,14 @@
 # Hello, I'm Miguel 👋
 
-I'm a Front End Developer with over 3 years of experience, originally from Lisbon, Portugal. I specialize in building modern and interactive web applications using the following technologies:
+I'm a Full Stack Developer, originally from Lisbon, Portugal. I specialize in building modern and interactive web applications using the following technologies:
 
 - Front End Development: HTML, CSS, JavaScript
 - Back End Development: Node.js
 - Frameworks and Libraries: React, TypeScript, Next.js, Express.js
 - Databases: MongoDB & Mongoose
-- State Management: Redux Toolkit
-- Styling: SCSS
+- State Management: Context API, Redux Toolkit
+- Styling: MUI, Tailwind, Emotion, SCSS, etc.
+- Back End Development: Python Django Rest Framework
 
 ## 🚀 Projects
 
