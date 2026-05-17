@@ -8,6 +8,7 @@ I'm a Full Stack Developer, originally from Lisbon, Portugal. I specialize in bu
 - Databases: MongoDB & Mongoose
 - State Management: Context API, Redux Toolkit
 - Styling: MUI, Tailwind, Emotion, SCSS, etc.
+- Testing: Vitest, Jest, Playwright, Cypress
 - Back End Development: Python Django Rest Framework
 
 ## 🚀 Projects
